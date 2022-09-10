@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "fName": "saurabh",
+      "lName": "pacharne",
+      "email": "saurabhpacharne@example.com",
+      "mobNo": "1234567",
+      "id": 1
+    },
+    {
+      "fName": "vaibhav",
+      "lName": "pathak",
+      "email": "vaibhavpathak@exaple.com",
+      "mobNo": "633523225",
+      "id": 2
+    },
+    {
+      "fName": "scsa",
+      "lName": "csaca",
+      "email": "scasc@gmail.com",
+      "mobNo": "423235532",
+      "id": 3
+    }
+  ]
+}
