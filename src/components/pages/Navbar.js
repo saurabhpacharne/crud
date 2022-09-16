@@ -8,7 +8,7 @@ function Navbar() {
 const [searchTerm, setSearchTerm] = useState("");
 return (
   <>
-  <nav className="navbar navbar-expand-lg bg-primary">
+  <nav className="navbar navbar-expand-lg bg-dark">
     <div className="container-fluid">
       <a className="navbar-brand" href="/"><img src="https://unifiedaccess.mphasis.com/images/mp1.png" alt=""  width="90px" height="60px"></img></a>
       <ul className="navbar-nav me-auto  ">
